@@ -98,10 +98,11 @@ async def connect_to_wss(proxy, user_id, reconnect_interval):
 
 # 主函数，负责读取CSV文件中的代理并发起连接
 async def main():
-    # if len(sys.argv) != 5:
-    #     print("Usage: python3 grassduo.py <proxy_type> <file_path> <reconnect_interval> <user_id>")
-    #     sys.exit(1)
+    if len(sys.argv) != 2:
+        print("Usage: python3 batch.py <index>")
+        sys.exit(1)
 
+    index = int(sys.argv[1])
     proxy_type = "http"
     device_file_path = "devices.csv"
     user_file_path = "users.json"
@@ -110,12 +111,12 @@ async def main():
     users = []
     with open(user_file_path,'r') as load_f:
        users = json.load(load_f)
-    for user in users:
-        if proxies:
-            tasks = [connect_to_wss(proxy, user, reconnect_interval) for proxy in proxies]
-            await asyncio.gather(*tasks)
-        else:
-            logger.error("No proxies found in the CSV file.")
+    user = users[index]
+    if proxies:
+        tasks = [connect_to_wss(proxy, user, reconnect_interval) for proxy in proxies]
+        await asyncio.gather(*tasks)
+    else:
+        logger.error("No proxies found in the CSV file.")
     
 
 # 运行主函数
