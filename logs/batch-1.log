@@ -1,0 +1,155 @@
+2024-06-27 14:49:56.001 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.045 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.052 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.057 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.063 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.069 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.074 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.081 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.087 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.094 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.101 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.107 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.112 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.118 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.124 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.130 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.136 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.141 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.147 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.153 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.158 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.164 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.170 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.175 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.181 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.186 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.191 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.197 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.202 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.207 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:49:56.473 | ERROR    | __main__:connect_to_wss:94 - 
+2024-06-27 14:49:56.474 | ERROR    | __main__:connect_to_wss:95 - Failed to connect to proxy: http://wool_faucet--one-custom-region-sg:zhandong@proxy.ipidea.io:2333
+2024-06-27 14:49:56.507 | ERROR    | __main__:connect_to_wss:94 - 
+2024-06-27 14:49:56.507 | ERROR    | __main__:connect_to_wss:95 - Failed to connect to proxy: http://wool_faucet--one-custom-region-sg:zhandong@proxy.ipidea.io:2333
+2024-06-27 14:49:56.515 | ERROR    | __main__:connect_to_wss:94 - 
+2024-06-27 14:49:56.515 | ERROR    | __main__:connect_to_wss:95 - Failed to connect to proxy: http://wool_faucet--one-custom-region-sg:zhandong@proxy.ipidea.io:2333
+2024-06-27 14:49:56.631 | ERROR    | __main__:connect_to_wss:94 - 
+2024-06-27 14:49:56.631 | ERROR    | __main__:connect_to_wss:95 - Failed to connect to proxy: http://wool_faucet--one-custom-region-sg:zhandong@proxy.ipidea.io:2333
+2024-06-27 14:49:57.444 | ERROR    | __main__:connect_to_wss:94 - 
+2024-06-27 14:49:57.444 | ERROR    | __main__:connect_to_wss:95 - Failed to connect to proxy: http://wool_faucet--one-custom-region-sg:zhandong@proxy.ipidea.io:2333
+2024-06-27 14:49:57.461 | ERROR    | __main__:connect_to_wss:94 - 
+2024-06-27 14:49:57.461 | ERROR    | __main__:connect_to_wss:95 - Failed to connect to proxy: http://wool_faucet--one-custom-region-sg:zhandong@proxy.ipidea.io:2333
+2024-06-27 14:49:57.492 | ERROR    | __main__:connect_to_wss:94 - 
+2024-06-27 14:49:57.492 | ERROR    | __main__:connect_to_wss:95 - Failed to connect to proxy: http://wool_faucet--one-custom-region-sg:zhandong@proxy.ipidea.io:2333
+2024-06-27 14:49:58.330 | INFO     | __main__:connect_to_wss:72 - {'id': 'oifeug7o2hMM3ZB', 'action': 'AUTH'}
+2024-06-27 14:49:58.330 | DEBUG    | __main__:connect_to_wss:86 - {'id': 'oifeug7o2hMM3ZB', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3', 'timestamp': 1719470998, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:49:58.330 | DEBUG    | __main__:send_ping:62 - {"id": "b26d2b6e-b15e-49a5-8102-b0dca4e38d09", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:49:58.379 | INFO     | __main__:connect_to_wss:72 - {'id': 'IT3-cPQdqwTpB7k', 'action': 'AUTH'}
+2024-06-27 14:49:58.379 | DEBUG    | __main__:connect_to_wss:86 - {'id': 'IT3-cPQdqwTpB7k', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.3', 'timestamp': 1719470998, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:49:58.380 | DEBUG    | __main__:send_ping:62 - {"id": "4f036e78-2775-4439-9205-4cb83b68a1c0", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:49:58.438 | INFO     | __main__:connect_to_wss:72 - {'id': 'anA-lcgtKQ7AQOc', 'action': 'AUTH'}
+2024-06-27 14:49:58.439 | DEBUG    | __main__:connect_to_wss:86 - {'id': 'anA-lcgtKQ7AQOc', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.3', 'timestamp': 1719470998, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:49:58.439 | DEBUG    | __main__:send_ping:62 - {"id": "4e582316-7b5e-41c1-97a1-c0435a2904aa", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:49:58.440 | INFO     | __main__:connect_to_wss:72 - {'id': 'NIp5WllDPgEJSLo', 'action': 'AUTH'}
+2024-06-27 14:49:58.441 | DEBUG    | __main__:connect_to_wss:86 - {'id': 'NIp5WllDPgEJSLo', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.3', 'timestamp': 1719470998, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:49:58.441 | DEBUG    | __main__:send_ping:62 - {"id": "49938540-e514-45df-a8ef-008e739fc427", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:49:58.452 | INFO     | __main__:connect_to_wss:72 - {'id': 'sco0Fo1MTNK85ER', 'action': 'AUTH'}
+2024-06-27 14:49:58.452 | DEBUG    | __main__:connect_to_wss:86 - {'id': 'sco0Fo1MTNK85ER', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3', 'timestamp': 1719470998, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:49:58.452 | DEBUG    | __main__:send_ping:62 - {"id": "3083e692-c67a-4067-99ed-57ab7e4b8106", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:49:58.565 | INFO     | __main__:connect_to_wss:72 - {'id': 'eot3bEes_15CpNx', 'action': 'AUTH'}
+2024-06-27 14:49:58.565 | DEBUG    | __main__:connect_to_wss:86 - {'id': 'eot3bEes_15CpNx', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.3', 'timestamp': 1719470998, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:49:58.565 | DEBUG    | __main__:send_ping:62 - {"id": "41bace14-c1ca-4a5a-8dc6-57313700ce13", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:49:58.602 | INFO     | __main__:connect_to_wss:72 - {'id': 'ghY-r38o64lArJA', 'action': 'AUTH'}
+2024-06-27 14:49:58.602 | DEBUG    | __main__:connect_to_wss:86 - {'id': 'ghY-r38o64lArJA', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3', 'timestamp': 1719470998, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:49:58.602 | DEBUG    | __main__:send_ping:62 - {"id": "5a4b798c-2455-415f-b683-b8291363c48a", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:49:58.603 | INFO     | __main__:connect_to_wss:72 - {'id': 'rvcg2P1kMf9JYuf', 'action': 'AUTH'}
+2024-06-27 14:49:58.603 | DEBUG    | __main__:connect_to_wss:86 - {'id': 'rvcg2P1kMf9JYuf', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.3', 'timestamp': 1719470998, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:49:58.603 | DEBUG    | __main__:send_ping:62 - {"id": "0249f727-7f5a-42b7-b25f-052d92d4a9f2", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:49:58.645 | INFO     | __main__:connect_to_wss:72 - {'id': 'G7FTOd9Cb52AS9r', 'action': 'AUTH'}
+2024-06-27 14:49:58.645 | DEBUG    | __main__:connect_to_wss:86 - {'id': 'G7FTOd9Cb52AS9r', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.3', 'timestamp': 1719470998, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:49:58.646 | DEBUG    | __main__:send_ping:62 - {"id": "74ad5bee-6375-486e-9e95-f876c13a4414", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:49:58.667 | INFO     | __main__:connect_to_wss:72 - {'id': 'PoZcS8HEnfz-UXb', 'action': 'AUTH'}
+2024-06-27 14:49:58.667 | DEBUG    | __main__:connect_to_wss:86 - {'id': 'PoZcS8HEnfz-UXb', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3', 'timestamp': 1719470998, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:49:58.667 | DEBUG    | __main__:send_ping:62 - {"id": "7e785385-2adc-423d-af0b-fe3924235850", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:49:58.712 | INFO     | __main__:connect_to_wss:72 - {'id': 'HYn', 'action': 'PONG'}
+2024-06-27 14:49:58.712 | DEBUG    | __main__:connect_to_wss:91 - {'id': 'HYn', 'origin_action': 'PONG'}
+2024-06-27 14:49:58.727 | INFO     | __main__:connect_to_wss:72 - {'id': 'JsNhB_rTiXHbFI8', 'action': 'AUTH'}
+2024-06-27 14:49:58.727 | DEBUG    | __main__:connect_to_wss:86 - {'id': 'JsNhB_rTiXHbFI8', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3', 'timestamp': 1719470998, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:49:58.727 | INFO     | __main__:connect_to_wss:72 - {'id': 'qD77AFlpnZN37Pm', 'action': 'AUTH'}
+2024-06-27 14:49:58.727 | DEBUG    | __main__:connect_to_wss:86 - {'id': 'qD77AFlpnZN37Pm', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.3', 'timestamp': 1719470998, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:49:58.727 | DEBUG    | __main__:send_ping:62 - {"id": "47fe1384-6ffd-408a-8f59-679dc3389b60", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:49:58.727 | DEBUG    | __main__:send_ping:62 - {"id": "e8535620-087f-4105-9a3b-d19529ff93eb", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:49:58.743 | INFO     | __main__:connect_to_wss:72 - {'id': 'ICIc3BhGprIrJks', 'action': 'AUTH'}
+2024-06-27 14:49:58.743 | DEBUG    | __main__:connect_to_wss:86 - {'id': 'ICIc3BhGprIrJks', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3', 'timestamp': 1719470998, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:49:58.743 | DEBUG    | __main__:send_ping:62 - {"id": "320eb4de-5412-409c-a41e-fb421667a501", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:49:58.759 | INFO     | __main__:connect_to_wss:72 - {'id': 'FAo', 'action': 'PONG'}
+2024-06-27 14:49:58.759 | DEBUG    | __main__:connect_to_wss:91 - {'id': 'FAo', 'origin_action': 'PONG'}
+2024-06-27 14:49:58.787 | INFO     | __main__:connect_to_wss:72 - {'id': 'Gq1', 'action': 'PONG'}
+2024-06-27 14:49:58.788 | DEBUG    | __main__:connect_to_wss:91 - {'id': 'Gq1', 'origin_action': 'PONG'}
+2024-06-27 14:49:58.884 | INFO     | __main__:connect_to_wss:72 - {'id': 'I5Z', 'action': 'PONG'}
+2024-06-27 14:49:58.884 | DEBUG    | __main__:connect_to_wss:91 - {'id': 'I5Z', 'origin_action': 'PONG'}
+2024-06-27 14:49:58.931 | INFO     | __main__:connect_to_wss:72 - {'id': 'd-U', 'action': 'PONG'}
+2024-06-27 14:49:58.931 | DEBUG    | __main__:connect_to_wss:91 - {'id': 'd-U', 'origin_action': 'PONG'}
+2024-06-27 14:49:58.931 | INFO     | __main__:connect_to_wss:72 - {'id': 'l7_', 'action': 'PONG'}
+2024-06-27 14:49:58.931 | DEBUG    | __main__:connect_to_wss:91 - {'id': 'l7_', 'origin_action': 'PONG'}
+2024-06-27 14:49:58.931 | INFO     | __main__:connect_to_wss:72 - {'id': 'UX5', 'action': 'PONG'}
+2024-06-27 14:49:58.931 | DEBUG    | __main__:connect_to_wss:91 - {'id': 'UX5', 'origin_action': 'PONG'}
+2024-06-27 14:49:59.019 | INFO     | __main__:connect_to_wss:72 - {'id': 'prk', 'action': 'PONG'}
+2024-06-27 14:49:59.020 | DEBUG    | __main__:connect_to_wss:91 - {'id': 'prk', 'origin_action': 'PONG'}
+2024-06-27 14:49:59.062 | INFO     | __main__:connect_to_wss:72 - {'id': 'PqC', 'action': 'PONG'}
+2024-06-27 14:49:59.063 | DEBUG    | __main__:connect_to_wss:91 - {'id': 'PqC', 'origin_action': 'PONG'}
+2024-06-27 14:49:59.090 | INFO     | __main__:connect_to_wss:72 - {'id': 'cJ6', 'action': 'PONG'}
+2024-06-27 14:49:59.090 | DEBUG    | __main__:connect_to_wss:91 - {'id': 'cJ6', 'origin_action': 'PONG'}
+2024-06-27 14:49:59.270 | INFO     | __main__:connect_to_wss:72 - {'id': 'YwICCfp67OqzFWp', 'action': 'AUTH'}
+2024-06-27 14:49:59.271 | DEBUG    | __main__:connect_to_wss:86 - {'id': 'YwICCfp67OqzFWp', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3', 'timestamp': 1719470999, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:49:59.271 | DEBUG    | __main__:send_ping:62 - {"id": "6072d6fb-b747-4898-b108-a66523c86026", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:49:59.300 | INFO     | __main__:connect_to_wss:72 - {'id': 'OxX', 'action': 'PONG'}
+2024-06-27 14:49:59.300 | DEBUG    | __main__:connect_to_wss:91 - {'id': 'OxX', 'origin_action': 'PONG'}
+2024-06-27 14:49:59.347 | INFO     | __main__:connect_to_wss:72 - {'id': 'lfCE6r9XsnF6crK', 'action': 'AUTH'}
+2024-06-27 14:49:59.347 | DEBUG    | __main__:connect_to_wss:86 - {'id': 'lfCE6r9XsnF6crK', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.3', 'timestamp': 1719470999, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:49:59.347 | DEBUG    | __main__:send_ping:62 - {"id": "bdd12825-79f6-4385-b46d-43c754877852", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:49:59.362 | INFO     | __main__:connect_to_wss:72 - {'id': '_4S', 'action': 'PONG'}
+2024-06-27 14:49:59.362 | DEBUG    | __main__:connect_to_wss:91 - {'id': '_4S', 'origin_action': 'PONG'}
+2024-06-27 14:49:59.527 | ERROR    | __main__:connect_to_wss:94 - received 4000 (private use) WebSocket server got error during authentication; then sent 4000 (private use) WebSocket server got error during authentication
+2024-06-27 14:49:59.527 | ERROR    | __main__:connect_to_wss:95 - Failed to connect to proxy: http://wool_faucet--one-custom-region-sg:zhandong@proxy.ipidea.io:2333
+2024-06-27 14:49:59.530 | INFO     | __main__:connect_to_wss:72 - {'id': '3qG3PXPcqHMI4nA', 'action': 'AUTH'}
+2024-06-27 14:49:59.530 | DEBUG    | __main__:connect_to_wss:86 - {'id': '3qG3PXPcqHMI4nA', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3', 'timestamp': 1719470999, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:49:59.530 | DEBUG    | __main__:send_ping:62 - {"id": "0d4f5a3d-5454-497d-85e8-37a2031dfe6a", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:49:59.590 | INFO     | __main__:connect_to_wss:72 - {'id': 'npk', 'action': 'PONG'}
+2024-06-27 14:49:59.590 | DEBUG    | __main__:connect_to_wss:91 - {'id': 'npk', 'origin_action': 'PONG'}
+2024-06-27 14:49:59.636 | INFO     | __main__:connect_to_wss:72 - {'id': '4xb', 'action': 'PONG'}
+2024-06-27 14:49:59.637 | DEBUG    | __main__:connect_to_wss:91 - {'id': '4xb', 'origin_action': 'PONG'}
+2024-06-27 14:49:59.678 | ERROR    | __main__:connect_to_wss:94 - received 4000 (private use) WebSocket server got error during authentication; then sent 4000 (private use) WebSocket server got error during authentication
+2024-06-27 14:49:59.678 | ERROR    | __main__:connect_to_wss:95 - Failed to connect to proxy: http://wool_faucet--one-custom-region-sg:zhandong@proxy.ipidea.io:2333
+2024-06-27 14:49:59.692 | INFO     | __main__:connect_to_wss:72 - {'id': 'JVz', 'action': 'PONG'}
+2024-06-27 14:49:59.692 | DEBUG    | __main__:connect_to_wss:91 - {'id': 'JVz', 'origin_action': 'PONG'}
+2024-06-27 14:49:59.721 | INFO     | __main__:connect_to_wss:72 - {'id': '6LBcYBcOkSrw6yC', 'action': 'AUTH'}
+2024-06-27 14:49:59.721 | DEBUG    | __main__:connect_to_wss:86 - {'id': '6LBcYBcOkSrw6yC', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.3', 'timestamp': 1719470999, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:49:59.721 | DEBUG    | __main__:send_ping:62 - {"id": "2cac001a-932f-4802-85c9-5b7b67a97201", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:49:59.856 | INFO     | __main__:connect_to_wss:72 - {'id': 'o69', 'action': 'PONG'}
+2024-06-27 14:49:59.856 | DEBUG    | __main__:connect_to_wss:91 - {'id': 'o69', 'origin_action': 'PONG'}
+2024-06-27 14:50:00.343 | INFO     | __main__:connect_to_wss:72 - {'id': '3hJ8asU_sJDbFyc', 'action': 'AUTH'}
+2024-06-27 14:50:00.344 | DEBUG    | __main__:connect_to_wss:86 - {'id': '3hJ8asU_sJDbFyc', 'origin_action': 'AUTH', 'result': {'browser_id': '71e33dbb-8448-3d91-ab85-29154e382942', 'user_id': '2iM0IPUwEgzpGnUyfjxWbYuqHZt', 'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.3', 'timestamp': 1719471000, 'device_type': 'extension', 'version': '2.5.0'}}
+2024-06-27 14:50:00.344 | DEBUG    | __main__:send_ping:62 - {"id": "05ddcb34-de87-4e4e-8d88-1624a7a60161", "version": "1.0.0", "action": "PING", "data": {}}
+2024-06-27 14:50:00.345 | INFO     | __main__:connect_to_wss:72 - {'id': 'tM3', 'action': 'PONG'}
+2024-06-27 14:50:00.345 | DEBUG    | __main__:connect_to_wss:91 - {'id': 'tM3', 'origin_action': 'PONG'}
+2024-06-27 14:50:01.090 | INFO     | __main__:connect_to_wss:72 - {'id': 'C96', 'action': 'PONG'}
+2024-06-27 14:50:01.090 | DEBUG    | __main__:connect_to_wss:91 - {'id': 'C96', 'origin_action': 'PONG'}
+2024-06-27 14:50:01.508 | ERROR    | __main__:connect_to_wss:94 - 
+2024-06-27 14:50:01.509 | ERROR    | __main__:connect_to_wss:95 - Failed to connect to proxy: http://wool_faucet--one-custom-region-sg:zhandong@proxy.ipidea.io:2333
+2024-06-27 14:50:01.514 | ERROR    | __main__:connect_to_wss:94 - 
+2024-06-27 14:50:01.514 | ERROR    | __main__:connect_to_wss:95 - Failed to connect to proxy: http://wool_faucet--one-custom-region-sg:zhandong@proxy.ipidea.io:2333
+2024-06-27 14:50:06.446 | ERROR    | __main__:connect_to_wss:94 - 
+2024-06-27 14:50:06.446 | ERROR    | __main__:connect_to_wss:95 - Failed to connect to proxy: http://wool_faucet--one-custom-region-sg:zhandong@proxy.ipidea.io:2333
+2024-06-27 14:50:06.451 | ERROR    | __main__:connect_to_wss:94 - 
+2024-06-27 14:50:06.451 | ERROR    | __main__:connect_to_wss:95 - Failed to connect to proxy: http://wool_faucet--one-custom-region-sg:zhandong@proxy.ipidea.io:2333
+2024-06-27 14:50:06.452 | ERROR    | __main__:connect_to_wss:94 - 
+2024-06-27 14:50:06.453 | ERROR    | __main__:connect_to_wss:95 - Failed to connect to proxy: http://wool_faucet--one-custom-region-sg:zhandong@proxy.ipidea.io:2333
+2024-06-27 14:50:06.475 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:50:06.508 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:50:06.518 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:50:06.632 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:50:07.446 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:50:07.463 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
+2024-06-27 14:50:07.494 | INFO     | __main__:connect_to_wss:36 - 71e33dbb-8448-3d91-ab85-29154e382942
