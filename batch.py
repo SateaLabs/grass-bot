@@ -11,6 +11,8 @@ import csv
 import os
 import sys
 
+alphabet = 'abcdefghijklmnopqrstuvwxyz1234567890'
+
 # 从CSV文件中读取代理列表
 async def read_proxies_from_csv(file_path, proxy_type):
     proxies = []
@@ -32,6 +34,8 @@ async def read_proxies_from_csv(file_path, proxy_type):
 async def connect_to_wss(proxy, user_id, reconnect_interval):
     while True:
         try:
+            characters = random.sample(alphabet, 12)
+            proxy=proxy.replace("6ea610c91c66","".join(characters))
             device_id = str(uuid.uuid3(uuid.NAMESPACE_DNS, proxy))
             logger.info(device_id)
             # 谷歌浏览器模拟状态列表
@@ -113,8 +117,8 @@ async def main():
        users = json.load(load_f)
     user = users[index]
     if proxies:
-        tasks = [connect_to_wss(proxy, user, reconnect_interval) for proxy in proxies]
-        await asyncio.gather(*tasks)
+            tasks = [connect_to_wss(proxy, user, reconnect_interval) for proxy in proxies]
+            await asyncio.gather(*tasks)
     else:
         logger.error("No proxies found in the CSV file.")
     
