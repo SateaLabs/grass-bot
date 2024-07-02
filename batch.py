@@ -34,8 +34,8 @@ async def read_proxies_from_csv(file_path, proxy_type):
 async def connect_to_wss(proxy, user_id, reconnect_interval):
     while True:
         try:
-            characters = random.sample(alphabet, 12)
-            proxy=proxy.replace("6ea610c91c66","".join(characters))
+            characters = random.sample(alphabet, 7)
+            proxy=proxy.replace("r123456","".join(characters))
             device_id = str(uuid.uuid3(uuid.NAMESPACE_DNS, proxy))
             logger.info(device_id)
             # 谷歌浏览器模拟状态列表
